@@ -1,0 +1,3 @@
+Research Question: "To what extent does the use of deep learning techniques improve the accuracy of sentiment analysis in social media data, and what are the practical implications for businesses in terms of understanding customer sentiment?"
+
+This research question focuses on the application of deep learning in sentiment analysis, specifically in social media data. It seeks to understand the impact of deep learning techniques on the accuracy of sentiment analysis and the practical implications for businesses, particularly in the context of understanding customer sentiment, which can have significant implications for marketing and customer service.
